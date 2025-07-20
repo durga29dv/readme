@@ -51,7 +51,7 @@ And no, I’m not stopping here. 💫
 ## 🔗 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/durga29344)
-- ✉️ durgabaskar@email.com 
+- ✉️ durga2932005@gmail.com
 - 📍 Chennai, India
 
 ---
