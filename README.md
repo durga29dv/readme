@@ -1,4 +1,4 @@
-I’m **Durga Baskar** — not just another engineering student,  
+Hyy guys 🙋🏻‍♀️ this is **Durga Baskar** — not just another engineering student,  
 but a woman building her world from scratch — with logic, love, and a little rebellion.
 
 📍 Raised in Chennai. Rooted in courage.  
