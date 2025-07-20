@@ -1,17 +1,18 @@
-## Hi there 👋 It's me Durga Baskar
+I’m **Durga Baskar** — not just another engineering student,  
+but a woman building her world from scratch — with logic, love, and a little rebellion.
 
-### 🎓 Final Year EEE Student | 💻 Java Enthusiast | 🎯 Aspiring Consultant Sales Engineer
+📍 Raised in Chennai. Rooted in courage.  
+💻 Learned to code not because I had to — but because I wanted more.  
+🎓 EEE by degree, but my heart beats for **Java**, design, and doing things differently.  
+🛠️ I touch tech like art — every project, every line, every click with intent.  
+💬 I don’t fear interviews or setbacks — I speak up, I show up, I glow through it.  
 
----
+This repo?  
+It’s not just a README —  
+It’s a real me.
 
-## 🚀 About Me
-
-I'm an Electrical and Electronics Engineering student passionate about blending technology with business. While I come from a core engineering background, I'm deeply interested in the **IT domain**, particularly in **Java development** and **Consulting Sales roles** that let me connect with people and technology.
-
-- 🌱 Currently learning: **Java**, **Problem Solving**, and **Sales Engineering Concepts**
-- 🎯 Goal for 2025: Get placed in a **Product-based company**
-- 🧠 Exploring: AI, EV tech, and customer-centric business roles
-- 💬 Ask me about: Programming basics, sales strategy, and placement preparation
+Still learning. Still growing. Still bold.  
+And no, I’m not stopping here. 💫
 
 ---
 
@@ -50,9 +51,9 @@ I'm an Electrical and Electronics Engineering student passionate about blending 
 ## 🔗 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/durga29344)
-- ✉️ durgabaskar@email.com *(use your professional email)*
+- ✉️ durgabaskar@email.com 
 - 📍 Chennai, India
 
 ---
 
-_“Dream big. Stay consistent. The best is yet to come.”_
+_“Built by passion, powered by purpose”_
